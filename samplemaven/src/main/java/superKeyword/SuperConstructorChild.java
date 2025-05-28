@@ -4,7 +4,7 @@ public class SuperConstructorChild extends SuperConstructorParent{
 	
 	public SuperConstructorChild()
 	{
-		super(5, 10);
+		super(15, 10);
 		System.out.println("Hey");
 	}
 
